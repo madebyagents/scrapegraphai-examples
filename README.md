@@ -1,6 +1,6 @@
 # ScrapeGraphAI Demo
 
-This repository contains examples of using the ScrapeGraphAI platform for web scraping with AI-powered capabilities.
+This repository contains examples of using the [ScrapeGraphAI](https://scrapegraphai.com/?via=tobias) platform for web scraping with AI-powered capabilities.
 
 ## Overview
 
